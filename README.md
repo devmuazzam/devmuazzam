@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Abdul Muazzam
 
-<!--
-**devmuazzam/devmuazzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Developer from Lahore, Pakistan, with 5+ years of experience building multi-tenant SaaS products for US and UK clients.
 
-Here are some ideas to get you started:
+**Stack:** React, Next.js, Node.js, NestJS, TypeScript, GraphQL, PostgreSQL, AWS, React Native (Expo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- Build multi-tenant SaaS platforms end to end, from client discovery and architecture to production release
+- Ship web and mobile apps with React, Next.js, NestJS and Expo (EAS builds, TestFlight)
+- Integrate third-party systems: Stripe, DocuSign, Zoho CRM, Microsoft Graph, QuickBooks
+- Lead small teams and turn business requirements into scalable systems
+
+### Public work
+- [flow-local-studio](https://github.com/devmuazzam/flow-local-studio): Python project
+
+Most of my professional work is in private client repositories.
+
+### Connect
+- LinkedIn: [linkedin.com/in/abdul-muazzam](https://www.linkedin.com/in/abdul-muazzam)
